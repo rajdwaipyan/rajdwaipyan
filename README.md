@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajdwaipyan
+- 👋 Hi, I’m Dwaipyan
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning JAVA Desktop Application  
 - 💞️ I’m looking to collaborate on Thesis
