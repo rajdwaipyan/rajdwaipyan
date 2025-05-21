@@ -13,7 +13,9 @@
   </a>
 </div>
 
-<!-- Activity Graph -->
+<!-- Sparkline Activity -->
+
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rajdwaipyan&bg_color=282A36&color=BD93F9&line=FF79C6&point=F8F8F2&area=true&area_color=5b30b5&hide_border=true&custom_title=Contribution%20Galaxy">
@@ -21,19 +23,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdwaipyan&bg_color=282A36&color=BD93F9&line=FF79C6&point=F8F8F2&area=true&area_color=5b30b5&hide_border=true&custom_title=Contribution%20Galaxy" width="95%" alt="Activity Graph"/>
   </picture>
 </div>
-
-<hr>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=dracula&column=7&no-frame=true&margin-w=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=flat&column=7&no-frame=true&margin-w=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=dracula&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-  </picture>
-</div>
-
-<hr>
 
 <!-- Stats Cards -->
 <div align="center">
@@ -75,6 +64,33 @@
   </picture>
 </div>
 
+<!-- GitHub Trophies -->
+<div align="center">
+  <h2>🏆 GitHub Achievements</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=dracula&column=7&no-frame=true&margin-w=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=flat&column=7&no-frame=true&margin-w=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=dracula&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  </picture>
+</div>
+
+<hr>.app/api/cards/productive-time?username=rajdwaipyan&theme=dracula&utcOffset=6">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdwaipyan&theme=buefy&utcOffset=6">
+        <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdwaipyan&theme=dracula&utcOffset=6" alt="Productivity Stats"/>
+      </picture>
+    </p>
+  </details>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%">
+  </picture>
+</div>
+
 <hr>
 
 <!-- Skills Section -->
@@ -83,42 +99,42 @@
     <summary><h2>💻 Technologies & Tools</h2></summary>
     <h3>Languages & Frameworks</h3>
     <p>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown"></a>
+      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"></a>
+      <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"></a>
+      <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"></a>
+      <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"></a>
+      <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown"></a>
     </p>
     <h3>Databases & Cloud</h3>
     <p>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify"></a>
+      <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"></a>
+      <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase"></a>
+      <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"></a>
+      <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify"></a>
     </p>
     <h3>Web Development & CMS</h3>
     <p>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Shopify-7AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white" alt="WooCommerce"></a>
+      <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"></a>
+      <a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-7AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify"></a>
+      <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"></a>
+      <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery"></a>
+      <a href="https://woocommerce.com/"><img src="https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white" alt="WooCommerce"></a>
     </p>
     <h3>Tools & Platforms</h3>
     <p>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VS Code"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="IntelliJ IDEA"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"></a>
+      <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"></a>
+      <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+      <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VS Code"></a>
+      <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="IntelliJ IDEA"></a>
+      <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"></a>
     </p>
     <h3>Cybersecurity</h3>
     <p>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Metasploit-E34F26.svg?style=for-the-badge&logo=Metasploit&logoColor=white" alt="Metasploit"></a>
-      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Burp%20Suite-FF6347.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white" alt="Burp Suite"></a>
+      <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"></a>
+      <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"></a>
+      <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-E34F26.svg?style=for-the-badge&logo=Metasploit&logoColor=white" alt="Metasploit"></a>
+      <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF6347.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white" alt="Burp Suite"></a>
     </p>
   </details>
 </div>
@@ -206,32 +222,44 @@
         <td width="50%">
           <h3 align="center">Java Desktop Application Mastery</h3>
           <div align="center">
-            <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=600&color=8E44AD" alt="Progress Bar">
+            <a href="https://www.java.com/" target="_blank">
+              <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="250" alt="Java Programming">
+            </a>
+            <br><br>
+            <img src="https://img.shields.io/badge/Progress-75%25-8E44AD?style=for-the-badge&logo=java&logoColor=white" alt="Progress Badge">
           </div>
-          <p align="center">Building robust, user-friendly desktop applications using Java Swing and JavaFX</p>
         </td>
         <td width="50%">
           <h3 align="center">Cybersecurity Tool Development</h3>
           <div align="center">
-            <img src="https://progress-bar.dev/30/?scale=100&title=Progress&width=600&color=F62459" alt="Progress Bar">
+            <a href="https://www.kali.org/" target="_blank">
+              <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="250" alt="Cybersecurity">
+            </a>
+            <br><br>
+            <img src="https://img.shields.io/badge/Progress-30%25-F62459?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Progress Badge">
           </div>
-          <p align="center">Creating custom security analysis and penetration testing tools</p>
         </td>
       </tr>
       <tr>
         <td width="50%">
           <h3 align="center">University Thesis Collaboration</h3>
           <div align="center">
-            <img src="https://progress-bar.dev/45/?scale=100&title=Progress&width=600&color=26A65B" alt="Progress Bar">
+            <a href="https://github.com/topics/thesis" target="_blank">
+              <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250" alt="Research">
+            </a>
+            <br><br>
+            <img src="https://img.shields.io/badge/Progress-45%25-26A65B?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Progress Badge">
           </div>
-          <p align="center">Working with academic partners on cutting-edge research projects</p>
         </td>
         <td width="50%">
           <h3 align="center">Open-Source Python Contributions</h3>
           <div align="center">
-            <img src="https://progress-bar.dev/20/?scale=100&title=Progress&width=600&color=1F3A93" alt="Progress Bar">
+            <a href="https://www.python.org/" target="_blank">
+              <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="250" alt="Python">
+            </a>
+            <br><br>
+            <img src="https://img.shields.io/badge/Progress-20%25-1F3A93?style=for-the-badge&logo=python&logoColor=white" alt="Progress Badge">
           </div>
-          <p align="center">Contributing to meaningful Python projects in the open-source community</p>
         </td>
       </tr>
     </table>
@@ -245,20 +273,20 @@
   <details open>
     <summary><h2>🌐 Connect With Me</h2></summary>
     <p align="center">
-      <a href="mailto:rajdwaipayan@gmail.com">
+      <a href="mailto:rajdwaipayan@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
       </a>
-      <a href="https://www.facebook.com/dwaipayan.mandal.98">
+      <a href="https://www.facebook.com/dwaipayan.mandal.98" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
       </a>
-      <a href="https://www.instagram.com/rajdwaipyan">
+      <a href="https://www.instagram.com/rajdwaipyan" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
       </a>
-      <a href="https://www.youtube.com/channel/UCZgLXywGVoNKHE4LVrIZf6A">
+      <a href="https://www.youtube.com/channel/UCZgLXywGVoNKHE4LVrIZf6A" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
       </a>
     </p>
-    <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+    <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="200">
   </details>
 </div>
 
@@ -268,7 +296,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" width="80%">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=rajdwaipyan&style=for-the-badge&color=blueviolet" alt="Profile Visitors">
+    <img src="https://profile-counter.glitch.me/{rajdwaipyan}/count.svg" alt="Visitor Count">
   </p>
 </div>
 
@@ -310,34 +338,18 @@
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   ```
   
-  <h4>3D Contribution Chart Workflow (.github/workflows/profile-3d.yml)</h4>
+  <h4>Get Your 3D Contribution Visualization</h4>
   
-  ```yaml
-  name: GitHub-Profile-3D-Contrib
+  <p>The 3D contribution graph is provided through an external service that renders your GitHub contributions in a beautiful 3D format.</p>
   
-  on:
-    schedule:
-      - cron: "0 18 * * *"
-    workflow_dispatch:
+  <ol>
+    <li>Visit <a href="https://github-readme-3d-contrib.ampl.xyz/" target="_blank">https://github-readme-3d-contrib.ampl.xyz/</a></li>
+    <li>Enter your GitHub username</li>
+    <li>Choose theme options</li>
+    <li>Copy the generated URL into your README</li>
+  </ol>
   
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      name: generate-github-profile-3d-contrib
-      steps:
-        - uses: actions/checkout@v3
-        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            USERNAME: ${{ github.repository_owner }}
-        - name: Commit & Push
-          run: |
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add -A .
-            git commit -m "Generated 3D Contribution Profile"
-            git push
-  ```
+  <p>This method doesn't require a GitHub Action and appears instantly on your profile!</p>
 
-  <p align="center">⭐ To activate these animations, create the above files in your repository and enable GitHub Actions! ⭐</p>
+  <p align="center">⭐ To activate these animations, follow the instructions above and enable GitHub Actions in your repository settings! ⭐</p>
 </details>
