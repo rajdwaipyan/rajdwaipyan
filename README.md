@@ -1,15 +1,19 @@
 <!-- Profile Header with Game Animation Theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dwaipyan%20Mandal&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF5733&height=200&section=header&text=DWAIPYAN%20MANDAL&desc=Developer%20|%20Python%20Expert%20|%20Cybersecurity%20Enthusiast&fontSize=36&fontColor=FFFFFF&fontAlignY=30&descSize=18&descAlignY=50&animation=twinkling" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Playground+🎮;Python+Enthusiast+🐍;Java+Desktop+Developer+☕;Cybersecurity+Explorer+🔐;WordPress+%26+Shopify+Expert+🌐;Open+to+Thesis+Collaboration+📚" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=28&duration=3000&pause=1000&color=4DB6AC&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Playground+🎮;Python+Enthusiast+🐍;Java+Desktop+Developer+☕;Cybersecurity+Explorer+🔐;WordPress+%26+Shopify+Expert+🌐;Open+to+Thesis+Collaboration+📚" alt="Typing SVG" /></a>
+</p>
 
 <!-- Interactive Game Section -->
 <div align="center">
-  <img src="https://github.com/rajdwaipyan/rajdwaipyan/blob/output/github-contribution-grid-snake-dark.svg" alt="Game Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
@@ -121,30 +125,4 @@
 <!-- To get the snake animation working, you need to set up a GitHub Action -->
 <!-- Create .github/workflows/snake.yml with the following content: -->
 
-<!--
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # run every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: rajdwaipyan
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: 'blue'
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+```yaml
