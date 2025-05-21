@@ -1,27 +1,28 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C3483&center=true&vCenter=true&repeat=false&width=600&height=100&lines=DWAIPYAN+MANDAL" alt="DWAIPYAN MANDAL" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+  
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C3483&center=true&vCenter=true&repeat=false&width=600&height=100&lines=DWAIPYAN+MANDAL" alt="DWAIPYAN MANDAL" />
+  </h1>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Python+Architect+%F0%9F%90%8D+%7C+Cybersecurity+Explorer+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%9A%80+%7C+Java+Desktop+Apps+%E2%98%95;WordPress+%26+Shopify+Expert+%F0%9F%8C%90+%7C+6%2B+Years+Experience;Turning+Complex+Problems+into+Elegant+Solutions+%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile GIF -->
+<!-- 3D Activity Visualization -->
 <div align="center">
-  <a href="https://github.com/rajdwaipyan">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile GIF" width="750"/>
+  <a href="https://skyline.github.com/rajdwaipyan/2023" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650" alt="GitHub Skyline">
   </a>
 </div>
 
-<!-- Sparkline Activity -->
-
-
+<!-- Activity Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rajdwaipyan&bg_color=282A36&color=BD93F9&line=FF79C6&point=F8F8F2&area=true&area_color=5b30b5&hide_border=true&custom_title=Contribution%20Galaxy">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rajdwaipyan&bg_color=F8F8F2&color=6C3483&line=8E44AD&point=504E4E&area=true&area_color=9B59B6&hide_border=true&custom_title=Contribution%20Galaxy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdwaipyan&bg_color=282A36&color=BD93F9&line=FF79C6&point=F8F8F2&area=true&area_color=5b30b5&hide_border=true&custom_title=Contribution%20Galaxy" width="95%" alt="Activity Graph"/>
-  </picture>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdwaipyan&bg_color=282A36&color=BD93F9&line=FF79C6&point=F8F8F2&area=true&hide_border=true" width="98%" alt="Activity Graph">
+  </a>
 </div>
 
 <!-- Stats Cards -->
@@ -300,8 +301,10 @@
   </p>
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%">
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%">
+</div>
 
 <!-- GitHub Actions Setup Instructions -->
 <details>
@@ -338,18 +341,18 @@
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   ```
   
-  <h4>Get Your 3D Contribution Visualization</h4>
+  <h4>GitHub Skyline - 3D Contribution Visualization</h4>
   
-  <p>The 3D contribution graph is provided through an external service that renders your GitHub contributions in a beautiful 3D format.</p>
+  <p>The 3D contribution visualization is provided through GitHub's official Skyline feature:</p>
   
   <ol>
-    <li>Visit <a href="https://github-readme-3d-contrib.ampl.xyz/" target="_blank">https://github-readme-3d-contrib.ampl.xyz/</a></li>
+    <li>Visit <a href="https://skyline.github.com/" target="_blank">https://skyline.github.com/</a></li>
     <li>Enter your GitHub username</li>
-    <li>Choose theme options</li>
-    <li>Copy the generated URL into your README</li>
+    <li>Choose a year to visualize</li>
+    <li>You can view, download and share your 3D contribution graph</li>
   </ol>
   
-  <p>This method doesn't require a GitHub Action and appears instantly on your profile!</p>
+  <p>This is an official GitHub feature and provides a beautiful 3D representation of your contributions!</p>
 
-  <p align="center">⭐ To activate these animations, follow the instructions above and enable GitHub Actions in your repository settings! ⭐</p>
+  <p align="center">⭐ To activate these features, follow the instructions above! ⭐</p>
 </details>
