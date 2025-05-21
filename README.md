@@ -1,247 +1,343 @@
-<!-- Profile Header with Game Animation Theme -->
-# <div align="center">⚡ DWAIPYAN MANDAL ⚡</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C3483&center=true&vCenter=true&repeat=false&width=600&height=100&lines=DWAIPYAN+MANDAL" alt="DWAIPYAN MANDAL" />
+</h1>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=THE%20CODE%20ARCHITECT&fontColor=fff&fontSize=50&fontAlignY=35&desc=Building%20Digital%20Masterpieces%20|%20Python%20%26%20Cybersecurity%20Expert&descAlignY=55&descSize=15" width="100%" />
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Python+Architect+%F0%9F%90%8D+%7C+Cybersecurity+Explorer+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%9A%80+%7C+Java+Desktop+Apps+%E2%98%95;WordPress+%26+Shopify+Expert+%F0%9F%8C%90+%7C+6%2B+Years+Experience;Turning+Complex+Problems+into+Elegant+Solutions+%E2%9C%A8" alt="Typing SVG" /></a>
+</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=435&lines=Welcome+To+My+Coding+Universe+%E2%9C%A8;Python+%7C+Java+%7C+Web+Development;Cybersecurity+Explorer+%F0%9F%94%90;6%2B+Years+in+WordPress+%26+Shopify;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Interactive Game Section -->
-<!-- Interactive Custom Animation Section -->
+<!-- Profile GIF -->
 <div align="center">
   <a href="https://github.com/rajdwaipyan">
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding Animation" />
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile GIF" width="750"/>
   </a>
 </div>
 
+<!-- Activity Graph -->
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdwaipyan&theme=radical&hide_border=true&border_radius=10&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" alt="GitHub Streak" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rajdwaipyan&bg_color=282A36&color=BD93F9&line=FF79C6&point=F8F8F2&area=true&area_color=5b30b5&hide_border=true&custom_title=Contribution%20Galaxy">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rajdwaipyan&bg_color=F8F8F2&color=6C3483&line=8E44AD&point=504E4E&area=true&area_color=9B59B6&hide_border=true&custom_title=Contribution%20Galaxy">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdwaipyan&bg_color=282A36&color=BD93F9&line=FF79C6&point=F8F8F2&area=true&area_color=5b30b5&hide_border=true&custom_title=Contribution%20Galaxy" width="95%" alt="Activity Graph"/>
+  </picture>
 </div>
 
----
+<hr>
 
-### 🎮 About Me: Player Stats
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3 align="center">Character Profile</h3>
-      <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=algolia&no-frame=true&row=2&column=3" width="100%" alt="Trophy" />
-      </div>
-      <ul>
-        <li>🚀 <b>Class:</b> Full-Stack Developer | Python Specialist</li>
-        <li>🔍 <b>Level 6+</b> in <b>WordPress & Shopify Development</b></li>
-        <li>🔮 <b>Special Ability:</b> Converting complex problems into elegant solutions</li>
-        <li>🛡️ Currently exploring the <b>Cybersecurity</b> realm</li>
-        <li>☕ Mastering <b>Java Desktop Application</b> development</li>
-        <li>🤝 Seeking allies for <b>thesis projects</b> and <b>open-source missions</b></li>
-      </ul>
-    </td>
-    <td valign="top" width="40%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rajdwaipyan&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-        <br><br>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdwaipyan&theme=moonlight" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Tech Arsenal
-
+<!-- GitHub Trophies -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>Python
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>Java
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>GitHub
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>React
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>HTML
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>JavaScript
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80"><br>CSS
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>GitHub
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="80"><br>WordPress
-      </td>
-    </tr>
-  </table>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF5733?style=for-the-badge&logo=shield&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=dracula&column=7&no-frame=true&margin-w=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=flat&column=7&no-frame=true&margin-w=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=rajdwaipyan&theme=dracula&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  </picture>
 </div>
 
+<hr>
+
+<!-- Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdwaipyan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" />
+  <details open>
+    <summary><h2>📊 GitHub Stats & Streaks</h2></summary>
+    <p align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajdwaipyan&show_icons=true&count_private=true&theme=dracula&text_bold=false&ring_color=ff00f0&hide_border=true&bg_color=282A36">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajdwaipyan&show_icons=true&count_private=true&theme=buefy&text_bold=false&ring_color=6C3483&hide_border=true">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajdwaipyan&show_icons=true&count_private=true&theme=dracula&text_bold=false&ring_color=ff00f0&hide_border=true&bg_color=282A36" alt="GitHub Stats"/>
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rajdwaipyan&theme=dracula&hide_border=true&background=282A36&fire=FF79C6&currStreakLabel=F8F8F2&sideLabels=F8F8F2">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rajdwaipyan&theme=buefy&hide_border=true&fire=8E44AD&currStreakLabel=6C3483&sideLabels=9B59B6">
+        <img width="49%" src="https://streak-stats.demolab.com/?user=rajdwaipyan&theme=dracula&hide_border=true&background=282A36&fire=FF79C6&currStreakLabel=F8F8F2&sideLabels=F8F8F2" alt="GitHub Streak"/>
+      </picture>
+    </p>
+    <p align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdwaipyan&theme=dracula&layout=compact&langs_count=10&hide_border=true&bg_color=282A36">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdwaipyan&theme=buefy&layout=compact&langs_count=10&hide_border=true">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdwaipyan&theme=dracula&layout=compact&langs_count=10&hide_border=true&bg_color=282A36" alt="Top Languages"/>
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdwaipyan&theme=dracula&utcOffset=6">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdwaipyan&theme=buefy&utcOffset=6">
+        <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdwaipyan&theme=dracula&utcOffset=6" alt="Productivity Stats"/>
+      </picture>
+    </p>
+  </details>
 </div>
 
----
-
-### 🎯 Quest Log: 2025 Goals
-
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%">
+  </picture>
 </div>
 
+<hr>
+
+<!-- Skills Section -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://progress-bar.dev/75/?title=Java%20Desktop%20Apps&width=200&color=4facfe" />
-      </td>
-      <td>✅ Master Java Desktop Application Development</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://progress-bar.dev/30/?title=Cybersecurity%20Tool&width=200&color=fa709a" />
-      </td>
-      <td>⏳ Build a personal Cybersecurity tool</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://progress-bar.dev/45/?title=University%20Thesis&width=200&color=667eea" />
-      </td>
-      <td>⏳ Complete a collaborative university thesis</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://progress-bar.dev/20/?title=Open%20Source&width=200&color=11998e" />
-      </td>
-      <td>⏳ Contribute to an open-source Python project</td>
-    </tr>
-  </table>
+  <details open>
+    <summary><h2>💻 Technologies & Tools</h2></summary>
+    <h3>Languages & Frameworks</h3>
+    <p>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown"></a>
+    </p>
+    <h3>Databases & Cloud</h3>
+    <p>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify"></a>
+    </p>
+    <h3>Web Development & CMS</h3>
+    <p>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Shopify-7AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white" alt="WooCommerce"></a>
+    </p>
+    <h3>Tools & Platforms</h3>
+    <p>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VS Code"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="IntelliJ IDEA"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"></a>
+    </p>
+    <h3>Cybersecurity</h3>
+    <p>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Metasploit-E34F26.svg?style=for-the-badge&logo=Metasploit&logoColor=white" alt="Metasploit"></a>
+      <a href="https://github.com/rajdwaipyan"><img src="https://img.shields.io/badge/Burp%20Suite-FF6347.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white" alt="Burp Suite"></a>
+    </p>
+  </details>
 </div>
 
----
+<hr>
 
-### 📫 Connect & Collaborate
-
+<!-- Animated Skill Display -->
 <div align="center">
-  <a href="mailto:rajdwaipayan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/dwaipayan.mandal.98">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/rajdwaipayan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCZgLXywGVoNKHE4LVrIZf6A">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quote" />
-</div>
-
-### ⚡ Secret Achievement Unlocked
-
-<div align="center">
+  <h2>🛠️ Skills in Action</h2>
   <table>
     <tr>
       <td width="50%">
-        <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100%" align="right">
-      </td>
-      <td width="50%">
+        <h3 align="center">Programming</h3>
         <p align="center">
-          <blockquote>
-            "I thrive when managing multiple projects — staying productive and learning something new every day is my superpower!"
-          </blockquote>
-          <p align="center">
-            <img src="https://komarev.com/ghpvc/?username=rajdwaipyan&style=for-the-badge&color=blueviolet" alt="Profile Views Counter" />
-          </p>
+          <a href="https://github.com/rajdwaipyan">
+            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Problem Solving</h3>
+        <p align="center">
+          <a href="https://github.com/rajdwaipyan">
+            <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300">
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Web Development</h3>
+        <p align="center">
+          <a href="https://github.com/rajdwaipyan">
+            <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300">
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Cybersecurity</h3>
+        <p align="center">
+          <a href="https://github.com/rajdwaipyan">
+            <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+          </a>
         </p>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Add this to your GitHub profile's README.md file -->
-<!-- To get the snake animation working, you need to set up a GitHub Action -->
-<!-- Create .github/workflows/snake.yml with the following content: -->
+<hr>
 
+<!-- About Me Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" />
+  <details open>
+    <summary><h2>👨‍💻 About Me</h2></summary>
+    <table>
+      <tr>
+        <td width="70%">
+          <ul align="left">
+            <li>🎓 Passionate developer constantly expanding knowledge in <b>Python</b>, <b>Java</b>, and <b>Cybersecurity</b></li>
+            <li>💼 Over <b>6 years</b> of experience working with <b>WordPress & Shopify</b></li>
+            <li>🔭 Currently building <b>Java Desktop Applications</b> and exploring <b>Cybersecurity tools</b></li>
+            <li>🌱 Always learning new technologies and methodologies to stay at the cutting edge</li>
+            <li>👯 Open to collaborate on <b>thesis projects</b>, <b>real-world applications</b>, and <b>open-source contributions</b></li>
+            <li>💬 Ask me about <b>Python development</b>, <b>WordPress optimization</b>, or <b>e-commerce solutions</b></li>
+            <li>⚡ Fun fact: <i>"I thrive when managing multiple projects — staying productive and learning something new every day is my superpower!"</i></li>
+          </ul>
+        </td>
+        <td width="30%">
+          <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+        </td>
+      </tr>
+    </table>
+  </details>
 </div>
 
+<hr>
+
+<!-- Progress Section -->
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-3d-contrib.vercel.app/api?username=rajdwaipyan&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-3d-contrib.vercel.app/api?username=rajdwaipyan&theme=light"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-profile-3d-contrib.vercel.app/api?username=rajdwaipyan&theme=dark" width="100%" />
-  </picture>
+  <details open>
+    <summary><h2>🎯 2025 Goals & Progress</h2></summary>
+    <table align="center" width="100%">
+      <tr>
+        <td width="50%">
+          <h3 align="center">Java Desktop Application Mastery</h3>
+          <div align="center">
+            <img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=600&color=8E44AD" alt="Progress Bar">
+          </div>
+          <p align="center">Building robust, user-friendly desktop applications using Java Swing and JavaFX</p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Cybersecurity Tool Development</h3>
+          <div align="center">
+            <img src="https://progress-bar.dev/30/?scale=100&title=Progress&width=600&color=F62459" alt="Progress Bar">
+          </div>
+          <p align="center">Creating custom security analysis and penetration testing tools</p>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">University Thesis Collaboration</h3>
+          <div align="center">
+            <img src="https://progress-bar.dev/45/?scale=100&title=Progress&width=600&color=26A65B" alt="Progress Bar">
+          </div>
+          <p align="center">Working with academic partners on cutting-edge research projects</p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Open-Source Python Contributions</h3>
+          <div align="center">
+            <img src="https://progress-bar.dev/20/?scale=100&title=Progress&width=600&color=1F3A93" alt="Progress Bar">
+          </div>
+          <p align="center">Contributing to meaningful Python projects in the open-source community</p>
+        </td>
+      </tr>
+    </table>
+  </details>
 </div>
 
+<hr>
+
+<!-- Connect Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
+  <details open>
+    <summary><h2>🌐 Connect With Me</h2></summary>
+    <p align="center">
+      <a href="mailto:rajdwaipayan@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+      <a href="https://www.facebook.com/dwaipayan.mandal.98">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+      </a>
+      <a href="https://www.instagram.com/rajdwaipyan">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+      <a href="https://www.youtube.com/channel/UCZgLXywGVoNKHE4LVrIZf6A">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+      </a>
+    </p>
+    <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+  </details>
 </div>
 
-<!-- 
-To enable the 3D contribution graph, create a GitHub Action:
-1. Create .github/workflows/profile-3d.yml with:
+<hr>
 
-```yaml
-name: GitHub-Profile-3D-Contrib
+<!-- Visitor Counter and Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" width="80%">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rajdwaipyan&style=for-the-badge&color=blueviolet" alt="Profile Visitors">
+  </p>
+</div>
 
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%">
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Generated 3D Contribution Profile"
-          git push
-```
+<!-- GitHub Actions Setup Instructions -->
+<details>
+  <summary><h3>🛠️ GitHub Action Workflows (Click to Expand)</h3></summary>
+  
+  <h4>Snake Animation Workflow (.github/workflows/snake.yml)</h4>
+  
+  ```yaml
+  name: Generate Snake Animation
+  
+  on:
+    schedule:
+      - cron: "0 */12 * * *" # run every 12 hours
+    workflow_dispatch:
+  
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - uses: Platane/snk@v3
+          id: snake-gif
+          with:
+            github_user_name: rajdwaipyan
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ```
+  
+  <h4>3D Contribution Chart Workflow (.github/workflows/profile-3d.yml)</h4>
+  
+  ```yaml
+  name: GitHub-Profile-3D-Contrib
+  
+  on:
+    schedule:
+      - cron: "0 18 * * *"
+    workflow_dispatch:
+  
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      name: generate-github-profile-3d-contrib
+      steps:
+        - uses: actions/checkout@v3
+        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A .
+            git commit -m "Generated 3D Contribution Profile"
+            git push
+  ```
 
-2. Enable GitHub Actions in your repository settings
--->
+  <p align="center">⭐ To activate these animations, create the above files in your repository and enable GitHub Actions! ⭐</p>
+</details>
