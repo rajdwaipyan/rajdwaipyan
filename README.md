@@ -75,11 +75,6 @@
   </picture>
 </div>
 
-<hr>.app/api/cards/productive-time?username=rajdwaipyan&theme=dracula&utcOffset=6">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdwaipyan&theme=buefy&utcOffset=6">
-        <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdwaipyan&theme=dracula&utcOffset=6" alt="Productivity Stats"/>
-      </picture>
-    </p>
   </details>
 </div>
 
